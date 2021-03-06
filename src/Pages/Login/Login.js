@@ -5,8 +5,7 @@ export default function Login() {
     return (
         <View>
             <Text>
-
-                테스트입력
+                브랜치업데이트 테스트
             </Text>
         </View>
     )
