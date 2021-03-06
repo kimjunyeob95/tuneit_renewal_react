@@ -6,7 +6,7 @@ export default function Login() {
         <View>
             <Text>
 
-                
+                테스트입력
             </Text>
         </View>
     )
