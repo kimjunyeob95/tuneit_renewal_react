@@ -5,7 +5,7 @@ export default function Login() {
     return (
         <View>
             <Text>
-                브랜치업데이트 테스트
+                브랜치 feature/login 계정업데이트
             </Text>
         </View>
     )
